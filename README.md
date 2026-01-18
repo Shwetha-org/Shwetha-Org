@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Shwetha 👋
 
-<!--
-**Shwetha-org/Shwetha-Org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Engineering student in Sweden, focusing on **embedded systems, IoT, and security-minded design**. I enjoy building projects that connect hardware, software, and the cloud to solve real-world problems.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: an industry collaboration and my thesis, turning an IoT idea into a startup-ready product.
+- 🌱 I’m currently learning: embedded systems, IoT security, and modern software architectures.
+- 👯 I’m looking to collaborate on: IoT, embedded, and security-focused projects with hardware/cloud integrations.
+- 💬 Ask me about: IoT prototypes, Raspberry Pi, and Python projects.
+- 📫 How to reach me: shwetha_rajesh@outlook.se or via LinkedIn.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love dancing, reading sci‑fi, and creating real-world things from my ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always open to learning, collaborations, and interesting engineering problems 🙂
+
